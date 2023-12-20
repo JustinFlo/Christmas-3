@@ -138,10 +138,10 @@ body {
     z-index: -1;
   }
   
-  @import url('https://fonts.googleapis.com/css?family=Great+Vibes');
+
   
-  h1 {
-    font-family: 'Great Vibes', cursive;
+  .class {
+    font-family: cursive;
     font-size: 3rem;
     color: #fff;
   }
